@@ -13,8 +13,8 @@ You can add:
 
 <div
   data-pubky-author="cg991c3itgsgbqj34uoisy8gf7a5oinsw76xxek6outsfu577fro"
-  data-pubky-ts="1776257140696000"
+  data-pubky-ts="1776259118233000"
   data-pubky-theme="light">
 </div>
 
-<script type="module" src="https://aintnostressin.github.io/abc-team-hackathon-prague/pubky-post.js"></script>
+<script type="module" src="https://aintnostressin.github.io/abc-team-hackathon-prague/abc.js"></script>
