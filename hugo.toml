@@ -1,0 +1,7 @@
+baseURL = 'https://ok300.github.io/abc-prague-hugo/'
+languageCode = 'en-us'
+title = 'ABC Prague Hugo'
+disableKinds = ['taxonomy', 'term']
+
+[params]
+  description = 'A sample Hugo blog'
