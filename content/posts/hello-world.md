@@ -8,8 +8,8 @@ Welcome to the sample Hugo blog. This is the initial Hello World post.
 
 <div
   data-pubky-author="56o4ougdwf8wdqn5ztarg97nik77isg8kukfrfqyqjg8r9rwodbo"
-  data-pubky-ts="1776248888675000"
-  data-pubky-theme="dark"
+  data-pubky-ts="1776249466802000"
+  data-pubky-theme="light"
   data-pubky-use-staging="true">
 </div>
 
