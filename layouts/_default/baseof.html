@@ -16,7 +16,7 @@
         {{ block "main" . }}{{ end }}
       </main>
       <footer class="site-footer">
-        &copy; {{ now.Year }} {{ .Site.Title }}
+        &copy; {{ now.Format "2006" }} {{ .Site.Title }}
       </footer>
     </div>
   </body>
