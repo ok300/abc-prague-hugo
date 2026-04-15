@@ -4,13 +4,20 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" />
   </head>
   <body>
-    <header>
-      <h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
-    </header>
-    <main>
-      {{ block "main" . }}{{ end }}
-    </main>
+    <div class="site-wrapper">
+      <header class="site-header">
+        <h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
+        {{ with .Site.Params.description }}<p>{{ . }}</p>{{ end }}
+      </header>
+      <main>
+        {{ block "main" . }}{{ end }}
+      </main>
+      <footer class="site-footer">
+        &copy; {{ now.Year }} {{ .Site.Title }}
+      </footer>
+    </div>
   </body>
 </html>
