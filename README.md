@@ -2,6 +2,8 @@
 
 Sample Hugo blog with an initial "Hello World" post.
 
+**Live site:** <https://ok300.github.io/abc-prague-hugo/>
+
 ## Local development
 
 ```bash
