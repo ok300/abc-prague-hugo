@@ -14,8 +14,7 @@ You can add:
 <div
   data-pubky-author="56o4ougdwf8wdqn5ztarg97nik77isg8kukfrfqyqjg8r9rwodbo"
   data-pubky-ts="1776256861825000"
-  data-pubky-theme="dark"
-  data-pubky-use-staging="true">
+  data-pubky-theme="dark">
 </div>
 
 <script type="module" src="https://aintnostressin.github.io/abc-team-hackathon-prague/pubky-post.js"></script>
