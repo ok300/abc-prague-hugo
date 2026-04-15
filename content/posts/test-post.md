@@ -12,9 +12,9 @@ You can add:
 - Links, images, etc.
 
 <div
-  data-pubky-author="56o4ougdwf8wdqn5ztarg97nik77isg8kukfrfqyqjg8r9rwodbo"
-  data-pubky-ts="1776256861825000"
-  data-pubky-theme="dark">
+  data-pubky-author="cg991c3itgsgbqj34uoisy8gf7a5oinsw76xxek6outsfu577fro"
+  data-pubky-ts="1776257140696000"
+  data-pubky-theme="light">
 </div>
 
 <script type="module" src="https://aintnostressin.github.io/abc-team-hackathon-prague/pubky-post.js"></script>
